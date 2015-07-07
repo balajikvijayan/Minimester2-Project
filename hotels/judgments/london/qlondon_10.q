@@ -1,0 +1,908 @@
+#cat=cleanliness,room,service,
+#query=good hygiene, comfortable room, polite staff;6851
+#query=good cleanliness, nice room, good service;6852
+#query=good hygiene, comfy room, nice staff;6853
+#query=clean place, great room, good staff;6854
+#query=good cleanliness, comfy room,helpful staff;6855
+#query=very clean, cozy rooms, nice staff;6856
+#query=good hygiene, great room, excellent staff;6857
+#query=clean place, cozy rooms, good service;6858
+#query=very clean, cozy rooms, polite staff;6859
+#query=good cleanliness, spacious room, polite staff;6860
+#query=good cleanliness, great room, good service;6861
+#query=very clean, spacious room, good service;6862
+#query=clean, cozy rooms, good service;6863
+#query=good hygiene, nice room, good staff;6864
+#query=good hygiene, comfortable room, good staff;6865
+#query=clean place, great room, polite staff;6866
+#query=very clean, great room, good service;6867
+#query=good cleanliness, comfortable room, polite staff;6868
+#query=clean, comfy room,helpful staff;6869
+#query=clean, comfy room, nice staff;6870
+#query=very clean, spacious room, excellent staff;6871
+#query=clean, cozy rooms, polite staff;6872
+#query=good hygiene, comfy room,helpful staff;6873
+#query=good hygiene, comfortable room, excellent staff;6874
+#query=clean place, spacious room, excellent staff;6875
+#query=clean place, cozy rooms, polite staff;6876
+#query=good cleanliness, spacious room, good service;6877
+#query=good cleanliness, great room, polite staff;6878
+#query=good cleanliness, spacious room, nice staff;6879
+#query=clean, cozy rooms, nice staff;6880
+#query=good hygiene, cozy rooms, polite staff;6881
+#query=clean place, nice room, good service;6882
+#query=good cleanliness, nice room,helpful staff;6883
+#query=clean place, comfortable room, nice staff;6884
+#query=clean, spacious room, polite staff;6885
+#query=good cleanliness, nice room, excellent staff;6886
+#query=clean, cozy rooms, good staff;6887
+#query=clean, comfortable room, good staff;6888
+#query=clean place, comfy room, good staff;6889
+#query=good hygiene, comfy room, good service;6890
+#query=good cleanliness, comfortable room,helpful staff;6891
+#query=good hygiene, cozy rooms, excellent staff;6892
+#query=good cleanliness, great room, excellent staff;6893
+#query=good hygiene, nice room, good service;6894
+#query=clean place, great room, excellent staff;6895
+#query=clean, comfortable room,helpful staff;6896
+#query=good hygiene, nice room, excellent staff;6897
+#query=clean place, comfy room,helpful staff;6898
+#query=good hygiene, spacious room, excellent staff;6899
+#query=good cleanliness, spacious room, good staff;6900
+#query=very clean, spacious room,helpful staff;6901
+#query=good cleanliness, cozy rooms,helpful staff;6902
+#query=clean, spacious room, good staff;6903
+#query=clean, comfortable room, polite staff;6904
+#query=good hygiene, great room,helpful staff;6905
+#query=good cleanliness, nice room, good staff;6906
+#query=good hygiene, spacious room, good staff;6907
+#query=good cleanliness, cozy rooms, good staff;6908
+#query=clean, spacious room, excellent staff;6909
+#query=very clean, comfortable room, good service;6910
+#query=clean place, spacious room, good staff;6911
+#query=clean, comfortable room, good service;6912
+#query=clean, nice room, good staff;6913
+#query=good hygiene, great room, good staff;6914
+#query=clean, spacious room,helpful staff;6915
+#query=clean, great room,helpful staff;6916
+#query=clean, comfortable room, excellent staff;6917
+#query=clean, great room, polite staff;6918
+#query=good hygiene, comfortable room,helpful staff;6919
+#query=clean, cozy rooms, excellent staff;6920
+#query=good hygiene, nice room,helpful staff;6921
+#query=clean, nice room, good service;6922
+#query=good hygiene, great room, nice staff;6923
+#query=very clean, comfy room, good service;6924
+#query=good hygiene, nice room, polite staff;6925
+#query=very clean, comfortable room, excellent staff;6926
+#query=clean, spacious room, nice staff;6927
+#query=very clean, great room, polite staff;6928
+#query=good hygiene, cozy rooms, good staff;6929
+#query=clean place, cozy rooms,helpful staff;6930
+#query=good cleanliness, cozy rooms, nice staff;6931
+#query=good cleanliness, comfortable room, nice staff;6932
+#query=very clean, comfy room,helpful staff;6933
+#query=clean, great room, excellent staff;6934
+#query=clean place, comfy room, excellent staff;6935
+#query=very clean, comfortable room, good staff;6936
+#query=clean place, spacious room, nice staff;6937
+#query=very clean, cozy rooms, good service;6938
+#query=very clean, comfortable room, polite staff;6939
+#query=clean place, nice room, excellent staff;6940
+#query=clean, nice room, nice staff;6941
+#query=clean, nice room, excellent staff;6942
+#query=very clean, nice room, polite staff;6943
+#query=very clean, great room, good staff;6944
+#query=very clean, nice room, good staff;6945
+#query=clean, nice room,helpful staff;6946
+#query=good hygiene, nice room, nice staff;6947
+#query=very clean, nice room,helpful staff;6948
+#query=good hygiene, comfortable room, nice staff;6949
+#query=clean place, cozy rooms, excellent staff;6950
+#query=good cleanliness, great room,helpful staff;6951
+#query=good hygiene, comfy room, polite staff;6952
+#query=clean place, spacious room,helpful staff;6953
+#query=good cleanliness, comfy room, nice staff;6954
+#query=clean place, comfortable room,helpful staff;6955
+#query=good cleanliness, comfy room, good staff;6956
+#query=very clean, nice room, good service;6957
+#query=good hygiene, cozy rooms,helpful staff;6958
+#query=good cleanliness, cozy rooms, polite staff;6959
+#query=clean place, spacious room, polite staff;6960
+#query=very clean, cozy rooms, good staff;6961
+#query=very clean, spacious room, nice staff;6962
+#query=good cleanliness, spacious room,helpful staff;6963
+#query=very clean, spacious room, good staff;6964
+#query=clean, comfy room, excellent staff;6965
+#query=very clean, nice room, nice staff;6966
+#query=very clean, comfy room, good staff;6967
+#query=very clean, great room, excellent staff;6968
+#query=good cleanliness, comfy room, polite staff;6969
+#query=very clean, nice room, excellent staff;6970
+#query=good hygiene, cozy rooms, nice staff;6971
+#query=clean, spacious room, good service;6972
+#query=good hygiene, spacious room, good service;6973
+#query=clean place, cozy rooms, good staff;6974
+#query=clean, great room, good service;6975
+#query=clean place, comfortable room, polite staff;6976
+#query=very clean, comfy room, nice staff;6977
+#query=good hygiene, comfy room, good staff;6978
+#query=good cleanliness, comfortable room, good service;6979
+#query=clean place, comfy room, good service;6980
+#query=good cleanliness, comfortable room, good staff;6981
+#query=good hygiene, great room, good service;6982
+#query=good cleanliness, cozy rooms, excellent staff;6983
+#query=good hygiene, spacious room, polite staff;6984
+#query=good cleanliness, spacious room, excellent staff;6985
+#query=good cleanliness, nice room, nice staff;6986
+#query=very clean, comfortable room,helpful staff;6987
+#query=good hygiene, comfortable room, good service;6988
+#query=clean, comfy room, polite staff;6989
+#query=clean, cozy rooms,helpful staff;6990
+#query=good cleanliness, comfy room, excellent staff;6991
+#query=good cleanliness, comfy room, good service;6992
+#query=clean, comfortable room, nice staff;6993
+#query=clean, great room, nice staff;6994
+#query=very clean, spacious room, polite staff;6995
+#query=clean place, great room, good service;6996
+#query=clean place, comfy room, polite staff;6997
+#query=good cleanliness, comfortable room, excellent staff;6998
+#query=good cleanliness, cozy rooms, good service;6999
+#query=clean, nice room, polite staff;7000
+#query=clean place, cozy rooms, nice staff;7001
+#query=clean place, comfortable room, good service;7002
+#query=very clean, great room, nice staff;7003
+#query=very clean, comfy room, polite staff;7004
+#query=good hygiene, cozy rooms, good service;7005
+#query=clean, great room, good staff;7006
+#query=clean place, great room, nice staff;7007
+#query=good cleanliness, great room, nice staff;7008
+#query=clean place, spacious room, good service;7009
+#query=clean place, nice room,helpful staff;7010
+#query=clean place, comfortable room, good staff;7011
+#query=clean, comfy room, good service;7012
+#query=good hygiene, spacious room,helpful staff;7013
+#query=very clean, comfy room, excellent staff;7014
+#query=very clean, great room,helpful staff;7015
+#query=very clean, cozy rooms,helpful staff;7016
+#query=clean place, nice room, good staff;7017
+#query=good cleanliness, great room, good staff;7018
+#query=good hygiene, comfy room, excellent staff;7019
+#query=clean, comfy room, good staff;7020
+#query=good cleanliness, nice room, polite staff;7021
+#query=clean place, comfy room, nice staff;7022
+#query=good hygiene, spacious room, nice staff;7023
+#query=very clean, cozy rooms, excellent staff;7024
+#query=very clean, comfortable room, nice staff;7025
+#query=clean place, great room,helpful staff;7026
+#query=clean place, nice room, polite staff;7027
+#query=clean place, comfortable room, excellent staff;7028
+#query=good hygiene, great room, polite staff;7029
+#query=clean place, nice room, nice staff;7030
+#judge
+uk_england_london_the_soho_hotel;4.872549019607843
+uk_england_london_the_milestone_hotel;4.863517060367454
+uk_england_london_covent_garden_hotel;4.825757575757575
+uk_england_london_knightsbridge_hotel;4.790697674418605
+uk_england_london_egerton_house_hotel;4.781818181818181
+uk_england_london_hotel_41;4.77433628318584
+uk_england_london_the_pelham_hotel;4.770833333333333
+uk_england_london_the_levin;4.741935483870968
+uk_england_london_the_lanesborough_a_st_regis_hotel;4.739130434782608
+uk_england_london_the_halkin;4.735042735042735
+uk_england_london_draycott_hotel;4.733333333333333
+uk_england_london_haymarket_hotel;4.733333333333333
+uk_england_london_the_stafford_hotel;4.708333333333333
+uk_england_london_church_street_hotel;4.706666666666666
+uk_england_london_odessa_wharf;4.7
+uk_england_london_hilton_london_canary_wharf;4.6923076923076925
+uk_england_london_apex_city_of_london;4.68327796234773
+uk_england_london_st_james_s_hotel_and_club;4.681159420289855
+uk_england_london_wyndham_grand_london_chelsea_harbour;4.670833333333333
+uk_england_london_threadneedles_hotel;4.670833333333333
+uk_england_london_sofitel_st_james_london;4.666666666666667
+uk_england_london_the_montague_on_the_gardens;4.64673311184939
+uk_england_london_city_inn_westminster;4.64562569213732
+uk_england_london_no_5_maddox_street;4.633333333333333
+uk_england_london_the_chesterfield_mayfair_hotel;4.6301218161683275
+uk_england_london_hoxton_hotel;4.616832779623477
+uk_england_london_parkes_hotel;4.616666666666667
+uk_england_london_montagu_place_hotel;4.614814814814815
+uk_england_london_base2stay_kensington;4.613510520487265
+uk_england_london_charlotte_street_hotel;4.611111111111112
+uk_england_london_plaza_on_the_river_club_and_residence;4.602564102564102
+uk_england_london_the_sumner_hotel;4.60236220472441
+uk_england_london_the_bermondsey_square_hotel;4.601307189542483
+uk_england_london_hilton_london_tower_bridge;4.572121212121212
+uk_england_london_the_goring;4.569105691056911
+uk_england_london_the_montcalm_london;4.564102564102564
+uk_england_london_baglioni_hotel_london;4.548611111111112
+uk_england_london_the_connaught;4.545454545454546
+uk_england_london_renaissance_chancery_court_london;4.542606516290728
+uk_england_london_royal_park_hotel;4.540229885057472
+uk_england_london_the_dorchester;4.529629629629629
+uk_england_london_luna_simone_hotel;4.5271317829457365
+uk_england_london_marriott_london_park_lane;4.526881720430108
+uk_england_london_ashburn_hotel;4.518518518518518
+uk_england_london_the_parkcity;4.516057585825028
+uk_england_london_london_bridge_hotel;4.510520487264674
+uk_england_london_sydney_house;4.509803921568627
+uk_england_london_brown_s_hotel;4.5
+uk_england_london_premier_inn_london_city_tower_hill;4.493734335839599
+uk_england_london_megaro_hotel;4.48581560283688
+uk_england_london_london_marriott_west_india_quay;4.485294117647059
+uk_england_london_premier_inn_london_victoria;4.483333333333333
+uk_england_london_rubens_at_the_palace;4.47887323943662
+uk_england_london_radisson_edwardian_new_providence_wharf;4.475555555555555
+uk_england_london_space_apart_hotel;4.474358974358974
+uk_england_london_london_marriott_hotel_marble_arch;4.471631205673759
+uk_england_london_the_zetter;4.469879518072289
+uk_england_london_hotel_indigo_london_paddington;4.469387755102041
+uk_england_london_claridge_s;4.466666666666668
+uk_england_london_dukes_hotel;4.466666666666667
+uk_england_london_four_seasons_hotel_canary_wharf;4.465277777777779
+uk_england_london_one_aldwych;4.4523809523809526
+uk_england_london_crown_moran_hotel;4.448888888888889
+uk_england_london_novotel_london_paddington;4.448412698412699
+uk_england_london_millers_residence;4.444444444444444
+uk_england_london_the_kensington_hotel;4.44
+uk_england_london_the_bloomsbury_hotel;4.434599156118144
+uk_england_london_radisson_edwardian_bloomsbury_street;4.434599156118144
+uk_england_london_the_capital_hotel;4.414634146341464
+uk_england_london_number_sixteen;4.413333333333333
+uk_england_london_chiswick_moran_hotel;4.410256410256411
+uk_england_london_mic_hotel_and_conference_center;4.409090909090909
+uk_england_london_athenaeum_hotel_apartments;4.407960199004975
+uk_england_london_rookery_hotel;4.407407407407407
+uk_england_london_intercontinental_london_park_lane_hotel;4.401826484018265
+uk_england_london_premier_inn_london_kings_cross_st_pancras;4.401481481481482
+uk_england_london_the_langham_london;4.400560224089636
+uk_england_london_holiday_inn_london_brentford_lock;4.392592592592592
+uk_england_london_the_cavendish_london;4.39207650273224
+uk_england_london_hyatt_regency_london_the_churchill;4.389880952380952
+uk_england_london_flemings_mayfair_hotel;4.388127853881279
+uk_england_london_london_southwark_premier_inn;4.383838383838383
+uk_england_london_dorset_square;4.381720430107527
+uk_england_london_grange_st_paul_s_hotel;4.381720430107527
+uk_england_london_grosvenor_house_a_jw_marriott_hotel;4.3809523809523805
+uk_england_london_holiday_inn_express_london_park_royal;4.379310344827586
+uk_england_london_novotel_london_greenwich;4.36986301369863
+uk_england_london_the_beaufort;4.368627450980392
+uk_england_london_london_lodge_hotel;4.367088607594937
+uk_england_london_the_ritz_london;4.367041198501873
+uk_england_london_crowne_plaza_london_the_city;4.36281179138322
+uk_england_london_collingham_apartments;4.361111111111111
+uk_england_london_west_ham_united_hotel;4.358974358974359
+uk_england_london_crowne_plaza_hotel_london_ealing;4.352941176470588
+uk_england_london_crowne_plaza_london_shoreditch;4.344352617079889
+uk_england_london_jumeirah_lowndes_hotel;4.34
+uk_england_london_glenlyn_guest_house;4.333333333333333
+uk_england_london_the_darlington_hyde_park;4.328888888888889
+uk_england_london_arosfa;4.323671497584541
+uk_england_london_hart_house_hotel;4.322222222222222
+uk_england_london_the_landmark_london;4.32051282051282
+uk_england_london_k_k_hotel_george;4.317351598173516
+uk_england_london_the_gore_hotel;4.316384180790961
+uk_england_london_22_jermyn_street;4.3157894736842115
+uk_england_london_four_seasons_hotel_london_currently_closed;4.3125
+uk_england_london_hotel_55;4.304347826086957
+uk_england_london_cadogan_hotel;4.303030303030304
+uk_england_london_fox_club;4.303030303030304
+uk_england_london_premier_inn_london_putney_bridge;4.303030303030303
+uk_england_london_marriott_london_county_hall;4.301075268817204
+uk_england_london_ramada_encore_london_west;4.296918767507003
+uk_england_london_twenty_nevern_square;4.295081967213115
+uk_england_london_club_quarters_at_trafalgar_square;4.294117647058823
+uk_england_london_51_buckingham_gate_taj_suites_and_residences;4.288888888888889
+uk_england_london_andaz_london;4.283333333333334
+uk_england_london_novotel_london_excel;4.282407407407407
+uk_england_london_royal_horseguards;4.281938325991189
+uk_england_london_premier_inn_london_kensington_olympia;4.279569892473119
+uk_england_london_london_city_hotel;4.277777777777779
+uk_england_london_sheraton_belgravia_hotel;4.277777777777778
+uk_england_london_premier_inn_london_county_hall;4.275747508305648
+uk_england_london_radisson_edwardian_leicester_square_hotel;4.275193798449613
+uk_england_london_the_savoy;4.274074074074075
+uk_england_london_premier_inn_london_wimbeldon_south;4.270833333333333
+uk_england_london_amsterdam_hotel;4.267326732673268
+uk_england_london_holiday_inn_express_london_newbury_park;4.263888888888889
+uk_england_london_premier_inn_london_hampstead;4.261904761904762
+uk_england_london_the_crescent_hotel;4.25
+uk_england_london_swissotel_the_howard;4.248015873015873
+uk_england_london_best_western_the_boltons_hotel;4.247863247863248
+uk_england_london_the_trafalgar_hotel;4.232662192393736
+uk_england_london_chamberlain_hotel;4.2298850574712645
+uk_england_london_the_fox_goose_hotel;4.222222222222222
+uk_england_london_searcy_s_roof_garden_rooms;4.218390804597701
+uk_england_london_premier_inn_london_euston;4.217125382262997
+uk_england_london_novotel_london_st_pancras;4.207678883071553
+uk_england_london_staunton_hotel;4.205128205128204
+uk_england_london_the_sanctuary_house_hotel;4.203508771929825
+uk_england_london_her_majesty_hotel;4.2023809523809526
+uk_england_london_melbourne_house_hotel;4.198198198198198
+uk_england_london_crowne_plaza_london_kensington;4.192733017377567
+uk_england_london_mercure_london_city_bankside;4.189655172413794
+uk_england_london_holiday_inn_london_camden_lock;4.180952380952381
+uk_england_london_marriott_london_grosvenor_square_hotel;4.180392156862745
+uk_england_london_ridgemount_hotel;4.176470588235294
+uk_england_london_holiday_inn_express_london_swiss_cottage;4.174603174603175
+uk_england_london_radisson_sas_hotel_london_stansted_airport;4.172043010752688
+uk_england_london_vancouver_studios;4.166666666666666
+uk_england_london_premier_inn_london_kensington;4.160583941605839
+uk_england_london_the_may_fair;4.152125279642059
+uk_england_london_premier_inn_london_hammersmith;4.149425287356322
+uk_england_london_jumeirah_carlton_tower;4.146341463414635
+uk_england_london_rhodes_hotel;4.142857142857142
+uk_england_london_the_rockwell;4.140740740740741
+uk_england_london_premier_inn_london_edgware;4.138888888888888
+uk_england_london_kingsway_hall_hotel;4.135135135135135
+uk_england_london_best_western_the_cromwell;4.135135135135135
+uk_england_london_days_hotel_london_north;4.133333333333334
+uk_england_london_the_mansions_apartments;4.12962962962963
+uk_england_london_park_plaza_county_hall_london;4.129629629629629
+uk_england_london_st_martins_lane_hotel;4.12280701754386
+uk_england_london_grange_blooms_hotel;4.119047619047619
+uk_england_london_crowne_plaza_marlow;4.119047619047619
+uk_england_london_the_metropolitan;4.115384615384616
+uk_england_london_holiday_inn_express_earls_court;4.114695340501792
+uk_england_london_the_bentley_hotel_london_the_waldorf_astoria_collection;4.111111111111112
+uk_england_london_hilton_london_islington;4.111111111111111
+uk_england_london_the_grand_at_trafalgar_square;4.104434907010014
+uk_england_london_the_beauchamp;4.101010101010101
+uk_england_london_park_plaza_riverbank_london;4.100806451612904
+uk_england_london_premier_inn_london_tower_bridge;4.0992907801418434
+uk_england_london_the_berkeley;4.096969696969698
+uk_england_london_hazlitt_s;4.092592592592593
+uk_england_london_radisson_edwardian_berkshire_hotel;4.092105263157895
+uk_england_london_jurys_inn_chelsea;4.087878787878789
+uk_england_london_sanderson_hotel_london;4.08641975308642
+uk_england_london_london_marriott_hotel_regents_park;4.086247086247086
+uk_england_london_the_euro_hotel;4.084388185654009
+uk_england_london_dolphin_house;4.083333333333333
+uk_england_london_holiday_inn_express_wandsworth_battersea;4.078787878787879
+uk_england_london_comfort_inn_buckingham_palace_road;4.076388888888889
+uk_england_london_blandford_hotel;4.075268817204301
+uk_england_london_nh_kensington;4.070588235294118
+uk_england_london_harrington_hall_hotel;4.0636363636363635
+uk_england_london_days_hotel_london_shoreditch;4.063063063063063
+uk_england_london_malmaison_london;4.0606060606060606
+uk_england_london_melia_white_house;4.060090702947846
+uk_england_london_marriott_london_maida_vale;4.058139534883721
+uk_england_london_wyndham_hotel;4.057971014492754
+uk_england_london_lancaster_london;4.057471264367816
+uk_england_london_ibis_london_city;4.056644880174292
+uk_england_london_the_courthouse_doubletree_by_hilton;4.055555555555555
+uk_england_london_cranley_hotel;4.055555555555555
+uk_england_london_grange_city_hotel;4.053475935828877
+uk_england_london_novotel_london_tower_bridge;4.052469135802469
+uk_england_london_mandeville_hotel;4.049382716049382
+uk_england_london_london_marriott_hotel_kensington;4.0476190476190474
+uk_england_london_devonport_house;4.0476190476190474
+uk_england_london_blades_hotel;4.041666666666667
+uk_england_london_sunborn_yacht_hotel;4.041666666666667
+uk_england_london_lord_milner;4.03921568627451
+uk_england_london_premier_inn_london_docklands_excel;4.038461538461539
+uk_england_london_radisson_edwardian_hampshire_hotel;4.036281179138322
+uk_england_london_grange_lodge_hotel;4.033333333333333
+uk_england_london_novotel_london_city_south;4.029166666666667
+uk_england_london_holiday_inn_express_london_hammersmith;4.028985507246377
+uk_england_london_196_bishopsgate;4.0285714285714285
+uk_england_london_royal_garden_hotel;4.027322404371585
+uk_england_london_scala_house;4.019607843137255
+uk_england_london_parkwood_hotel;4.017006802721088
+uk_england_london_best_western_victoria_palace;4.015384615384615
+uk_england_london_hilton_london_paddington;4.003159557661927
+uk_england_london_the_leonard_hotel;4.000000000000001
+uk_england_london_vandon_house_hotel;4.0
+uk_england_london_windmill_on_the_common;4.0
+uk_england_london_the_waldorf_hilton;3.9917550058892814
+uk_england_london_caring_hotel;3.991111111111111
+uk_england_london_club_quarters_st_paul_s;3.988795518207283
+uk_england_london_mandarin_oriental_hyde_park_london;3.984375
+uk_england_london_sloane_square_hotel;3.9787234042553195
+uk_england_london_crowne_plaza_london_docklands;3.9784946236559136
+uk_england_london_ramada_hotel_and_suites_london_docklands;3.9743589743589745
+uk_england_london_buckingham_hotel;3.9743589743589745
+uk_england_london_millennium_mayfair_hotel;3.9734151329243352
+uk_england_london_sheraton_park_tower;3.9704641350210976
+uk_england_london_fraser_place_canary_wharf;3.9666666666666663
+uk_england_london_myhotel_chelsea;3.9629629629629632
+uk_england_london_millennium_copthorne_hotels_at_chelsea_football_club;3.96031746031746
+uk_england_london_holiday_inn_express_london_wimbledon_south;3.9540229885057467
+uk_england_london_eleven_cadogan_gardens;3.948717948717949
+uk_england_london_portobello_hotel;3.9411764705882355
+uk_england_london_holiday_inn_express_london_golders_green_north;3.9375
+uk_england_london_travelodge_london_fulham;3.9375
+uk_england_london_trebovir;3.936781609195402
+uk_england_london_holiday_inn_london_kingston_south;3.933333333333333
+uk_england_london_merlyn_court_hotel;3.9215686274509807
+uk_england_london_the_rembrandt;3.9203354297693926
+uk_england_london_charing_cross;3.9166666666666665
+uk_england_london_the_colonnade_london;3.9166666666666665
+uk_england_london_dalmacia_hotel;3.9166666666666665
+uk_england_london_alhambra_hotel;3.9146341463414633
+uk_england_london_garden_court_hotel;3.9090909090909087
+uk_england_london_westland_hotel;3.9047619047619047
+uk_england_london_holiday_inn_express_london_limehouse;3.9030303030303037
+uk_england_london_travelodge_london_southwark;3.9009009009009006
+uk_england_london_park_inn_london_russell_square;3.895148669796557
+uk_england_london_london_hilton_on_park_lane;3.8815789473684212
+uk_england_london_st_david_s_hotels;3.8806584362139915
+uk_england_london_radisson_edwardian_mountbatten_hotel;3.8805031446540874
+uk_england_london_millennium_bailey_s_hotel;3.875555555555555
+uk_england_london_ambassadors_hotel_in_bloomsbury;3.873417721518987
+uk_england_london_novotel_london_waterloo;3.8732394366197185
+uk_england_london_guesthouse_west;3.8666666666666667
+uk_england_london_windermere_hotel;3.8655913978494625
+uk_england_london_byron_hotel;3.8561151079136686
+uk_england_london_westbury_mayfair;3.8544600938967135
+uk_england_london_travelodge_london_tower_bridge;3.853333333333333
+uk_england_london_hilton_london_docklands;3.853018372703412
+uk_england_london_park_plaza_victoria_london;3.852901484480432
+uk_england_london_southwark_rose_hotel;3.8523809523809525
+uk_england_london_danubius_hotel_regents_park;3.8512820512820514
+uk_england_london_holiday_inn_london_bloomsbury;3.842995169082126
+uk_england_london_la_suite_executive_hotel;3.839080459770115
+uk_england_london_hilton_london_kensington;3.8360881542699725
+uk_england_london_park_plaza_sherlock_holmes_london;3.834451901565996
+uk_england_london_grange_fitzrovia_hotel;3.8333333333333335
+uk_england_london_ascott_mayfair;3.8333333333333335
+uk_england_london_london_elizabeth_hotel;3.828746177370031
+uk_england_london_adria_hotel;3.8253968253968256
+uk_england_london_the_vicarage_hotel;3.821428571428571
+uk_england_london_citystay_hotel;3.818181818181818
+uk_england_london_belgrave_hotel;3.8166666666666664
+uk_england_london_kensington_house_hotel;3.811965811965812
+uk_england_london_ruskin;3.809523809523809
+uk_england_london_best_western_lodge_hotel_putney;3.807017543859649
+uk_england_london_shaftesbury_metropolis_london_hyde_park;3.804232804232804
+uk_england_london_quality_crown_hotel_paddington;3.8039215686274512
+uk_england_london_holiday_inn_express_london_royal_docks_docklands;3.8039215686274503
+uk_england_london_globetrotter_inn;3.8000000000000003
+uk_england_london_radisson_sas_portman_hotel;3.7837837837837838
+uk_england_london_the_lancaster;3.78125
+uk_england_london_rathbone_hotel;3.7760416666666665
+uk_england_london_the_portland_hotel;3.7733333333333334
+uk_england_london_shaftesbury_hyde_park_international;3.7708333333333335
+uk_england_london_jurys_inn_islington;3.7696476964769645
+uk_england_london_the_marylebone_hotel;3.7684630738522955
+uk_england_london_best_western_chiswick_palace_suites;3.766666666666666
+uk_england_london_best_western_phoenix_hotel;3.7608142493638677
+uk_england_london_hesperia_london_victoria_hotel;3.755952380952381
+uk_england_london_premier_inn_london_kew;3.755555555555555
+uk_england_london_mad_hatter_hotel;3.754901960784314
+uk_england_london_st_george_hotel;3.75
+uk_england_london_viking_hotel;3.75
+uk_england_london_falcon_hotel;3.746666666666666
+uk_england_london_crescent_hotel;3.743589743589743
+uk_england_london_best_western_john_howard_hotel;3.7314814814814814
+uk_england_london_club_quarters_gracechurch;3.73015873015873
+uk_england_london_comfort_inn_edgware_road;3.73015873015873
+uk_england_london_holiday_inn_london_brent_cross;3.726495726495726
+uk_england_london_fraser_place_queens_gate;3.7246376811594204
+uk_england_london_washington_mayfair_hotel;3.718390804597701
+uk_england_london_premier_by_eurotraveller;3.7179487179487176
+uk_england_london_millennium_gloucester;3.71780303030303
+uk_england_london_hilton_london_metropole;3.716500553709856
+uk_england_london_the_quality_maitrise_hotel;3.7083333333333335
+uk_england_london_stylotel;3.7049180327868854
+uk_england_london_k_west_hotel_spa;3.7039800995024876
+uk_england_london_grim_s_dyke_hotel;3.7037037037037037
+uk_england_london_cherry_court_hotel;3.6986301369863015
+uk_england_london_pasha_hotel;3.698412698412698
+uk_england_london_jenkins_hotel;3.6969696969696972
+uk_england_london_radisson_edwardian_grafton_hotel;3.694779116465863
+uk_england_london_durrants_hotel;3.6933333333333334
+uk_england_london_the_omega_hotel;3.692307692307692
+uk_england_london_holiday_inn_london_kensington_forum;3.6832779623477303
+uk_england_london_travelodge_london_city_airport_hotel;3.6781609195402303
+uk_england_london_the_academy;3.6777777777777776
+uk_england_london_seven_dials_hotel;3.675213675213675
+uk_england_london_grange_white_hall_hotel;3.673469387755102
+uk_england_london_54_boutique_hotel;3.6666666666666665
+uk_england_london_crowne_plaza_london_st_james;3.664739884393063
+uk_england_london_easyhotel_london_earls_court;3.6630824372759854
+uk_england_london_winchester_hotel;3.66120218579235
+uk_england_london_holiday_inn_express_london_southwark;3.657894736842105
+uk_england_london_grange_holborn_hotel;3.6572327044025155
+uk_england_london_the_balmoral_house_hotel;3.6538461538461537
+uk_england_london_the_caesar;3.6536458333333335
+uk_england_london_hotel_ibis_london_docklands;3.651515151515151
+uk_england_london_blakes_hotel;3.6507936507936507
+uk_england_london_holiday_inn_express_london_greenwich;3.65
+uk_england_london_the_maranton_house_hotel;3.649122807017544
+uk_england_london_americana_hotel;3.647435897435898
+uk_england_london_tudor_court_hotel;3.6458333333333335
+uk_england_london_la_gaffe;3.641025641025641
+uk_england_london_hotel_meridiana;3.6347031963470315
+uk_england_london_regency_house;3.6344086021505375
+uk_england_london_camden_lock_hotel;3.630952380952381
+uk_england_london_new_linden_hotel;3.628415300546448
+uk_england_london_ace_hotel;3.627906976744186
+uk_england_london_edward_lear_hotel;3.622950819672131
+uk_england_london_menzies_prince_regent;3.6222222222222222
+uk_england_london_top_hotel_kensington_gardens;3.620689655172414
+uk_england_london_olympic_house_hotel;3.620689655172414
+uk_england_london_marlin_apartments_queen_street;3.619047619047619
+uk_england_london_commodore_hotel;3.6166666666666667
+uk_england_london_hilton_london_euston;3.612745098039216
+uk_england_london_myhotel_bloomsbury;3.612121212121212
+uk_england_london_strand_palace_hotel;3.611295681063123
+uk_england_london_lord_kensington_hotel;3.602564102564102
+uk_england_london_the_shaftesbury_kensington;3.6023391812865495
+uk_england_london_marlin_apartments_empire_square;3.602150537634408
+uk_england_london_the_gallery_hotel;3.598039215686274
+uk_england_london_montana_hotel;3.5959595959595965
+uk_england_london_radisson_edwardian_sussex_hotel;3.593869731800767
+uk_england_london_ramada_hyde_park;3.5900383141762453
+uk_england_london_citadines_london_barbican;3.588235294117647
+uk_england_london_queensway_hotel;3.5869565217391304
+uk_england_london_ibis_london_euston_st_pancras;3.5855855855855854
+uk_england_london_thistle_marble_arch;3.5851063829787235
+uk_england_london_hilton_london_hyde_park;3.5844155844155843
+uk_england_london_castleton_hotel;3.5833333333333335
+uk_england_london_royal_court_apartments;3.580882352941176
+uk_england_london_holiday_inn_london_regent_s_park;3.575980392156863
+uk_england_london_aspen_suites_hyde_park;3.5757575757575757
+uk_england_london_mermaid_suite_hotel;3.5757575757575757
+uk_england_london_novotel_london_west;3.573809523809524
+uk_england_london_travelodge_london_euston;3.5708333333333333
+uk_england_london_thanet_hotel;3.5656565656565657
+uk_england_london_travelodge_city_road;3.564270152505447
+uk_england_london_best_western_bromley_court;3.5625
+uk_england_london_grange_rochester_hotel;3.56
+uk_england_london_the_fielding_hotel;3.555555555555556
+uk_england_london_ibis_london_earls_court;3.5519125683060104
+uk_england_london_travelodge_london_aldgate_east_hotel;3.5447154471544717
+uk_england_london_radisson_edwardian_kenilworth_hotel;3.5404339250493098
+uk_england_london_holiday_inn_express_london_stratford;3.5396825396825395
+uk_england_london_radisson_edwardian_vanderbilt;3.5363790186125215
+uk_england_london_troy_hotel;3.5250000000000004
+uk_england_london_comfort_inn_suites_kings_cross;3.5238095238095237
+uk_england_london_henley_house_hotel;3.522727272727273
+uk_england_london_harlingford_hotel;3.52046783625731
+uk_england_london_london_house_hotel;3.5130208333333335
+uk_england_london_marlin_apartments_olympic_view;3.5098039215686274
+uk_england_london_grange_strathmore_hotel;3.5069444444444446
+uk_england_london_lancaster_hall_hotel;3.505747126436782
+uk_england_london_best_western_shaftesbury_hotel;3.5042735042735043
+uk_england_london_langorf_hotel_apartments;3.5040650406504064
+uk_england_london_shaftesbury_premier_london_notting_hill;3.5
+uk_england_london_the_oxford_hotel;3.4883720930232562
+uk_england_london_ramada_ealing;3.484848484848485
+uk_england_london_best_western_burns_hotel;3.468599033816425
+uk_england_london_thistle_piccadilly;3.466666666666667
+uk_england_london_chrysos_hotel;3.464285714285714
+uk_england_london_melita_house_hotel;3.45679012345679
+uk_england_london_corus_hotel_hyde_park;3.453061224489796
+uk_england_london_piccolino_hotel;3.4468085106382973
+uk_england_london_london_guards_hotel;3.442307692307692
+uk_england_london_europa_house_hotel;3.4404761904761902
+uk_england_london_ibis_london_stratford;3.4375
+uk_england_london_the_royal_trafalgar_by_thistle;3.4343434343434343
+uk_england_london_cardiff_hotel;3.421875
+uk_england_london_days_inn_london_waterloo;3.417989417989418
+uk_england_london_holiday_inn_express_london_victoria;3.40952380952381
+uk_england_london_days_hotel_london_hyde_park;3.407407407407407
+uk_england_london_quality_crown_hotel_kensington;3.407407407407407
+uk_england_london_new_england_hotel;3.407407407407407
+uk_england_london_shaftesbury_premier_hotel_london_paddington;3.403921568627451
+uk_england_london_park_inn_hyde_park;3.402777777777778
+uk_england_london_jolly_st_ermin_s_hotel;3.3960573476702507
+uk_england_london_astons_apartments;3.380952380952381
+uk_england_london_saint_georges_hotel;3.380952380952381
+uk_england_london_russell_hotel;3.380228136882129
+uk_england_london_millennium_knightsbridge_hotel;3.3802083333333335
+uk_england_london_victor_hotel;3.3703703703703702
+uk_england_london_wardonia_hotel;3.369444444444445
+uk_england_london_elizabeth_hotel;3.3647798742138364
+uk_england_london_hotel_rushmore;3.3518518518518516
+uk_england_london_copthorne_tara_hotel_london_kensington;3.350515463917526
+uk_england_london_fairway_hotel;3.3495934959349594
+uk_england_london_best_western_the_delmere_hotel;3.348484848484848
+uk_england_london_hilton_london_green_park;3.3466666666666662
+uk_england_london_the_columbia;3.339181286549708
+uk_england_london_umi_london;3.3333333333333335
+uk_england_london_howard_winchester_hotel;3.3333333333333335
+uk_england_london_leigham_court_hotel;3.3333333333333335
+uk_england_london_park_international_hotel;3.3301886792452833
+uk_england_london_imperial_hotel;3.324074074074074
+uk_england_london_thistle_hyde_park;3.323529411764706
+uk_england_london_quality_crown_hotel_hyde_park;3.315602836879433
+uk_england_london_holiday_inn_london_kings_cross_bloomsbury;3.3153846153846156
+uk_england_london_thistle_kensington_gardens;3.3134920634920633
+uk_england_london_the_columbus_hotel;3.3095238095238098
+uk_england_london_london_town_hotel;3.308641975308642
+uk_england_london_euston_square_hotel;3.3059360730593608
+uk_england_london_quality_hotel_hampstead;3.303030303030303
+uk_england_london_39_suites;3.303030303030303
+uk_england_london_westminster_house_hotel;3.3030303030303028
+uk_england_london_hotel_westminster;3.3020833333333335
+uk_england_london_travelodge_high_holborn;3.3000000000000003
+uk_england_london_elysee_hotel;3.299435028248588
+uk_england_london_best_western_swiss_cottage_hotel;3.2982456140350878
+uk_england_london_the_kingsley_by_thistle;3.2944444444444443
+uk_england_london_the_tower;3.294117647058824
+uk_england_london_holiday_inn_london_mayfair;3.291970802919708
+uk_england_london_travelodge_london_covent_garden;3.285902503293808
+uk_england_london_days_inn_london_westminster;3.2831050228310503
+uk_england_london_le_meridien_piccadilly;3.28030303030303
+uk_england_london_travelodge_london_kew_bridge;3.2790697674418605
+uk_england_london_citadines_holborn_covent_garden;3.277777777777778
+uk_england_london_abc_hyde_park_hotel;3.272727272727272
+uk_england_london_best_western_corona;3.272300469483568
+uk_england_london_albion_house_hotel;3.2685185185185186
+uk_england_london_best_western_mostyn_hotel;3.265917602996255
+uk_england_london_bedford_hotel;3.2619047619047623
+uk_england_london_president_hotel;3.260869565217391
+uk_england_london_kensington_west_hotel;3.256410256410257
+uk_england_london_citadines_london_trafalgar_square;3.255663430420712
+uk_england_london_the_hempel;3.2484848484848485
+uk_england_london_the_cumberland;3.248062015503876
+uk_england_london_abcone_hotel;3.2471264367816093
+uk_england_london_sidney_hotel;3.2385620915032676
+uk_england_london_georgian_house_hotel;3.2352941176470593
+uk_england_london_regency_hotel_queen_s_gate;3.2314814814814814
+uk_england_london_mitre_house_hotel;3.22463768115942
+uk_england_london_mayflower_hotel_apartments;3.2192192192192195
+uk_england_london_palm_hotel;3.2121212121212124
+uk_england_london_travelodge_london_liverpool_street;3.210144927536232
+uk_england_london_euro_hotel_hammersmith;3.2083333333333335
+uk_england_london_crestfield_hotel;3.207885304659498
+uk_england_london_duke_of_leinster_hotel;3.202020202020202
+uk_england_london_ibis_london_docklands;3.202020202020202
+uk_england_london_travelodge_chessington_tolworth;3.1960784313725488
+uk_england_london_avonmore;3.190476190476191
+uk_england_london_hotel_82;3.176470588235294
+uk_england_london_comfort_inn_kings_cross;3.1693121693121693
+uk_england_london_notting_hill_gate_hotel;3.1666666666666665
+uk_england_london_astor_court_hotel;3.1604938271604937
+uk_england_london_the_tophams_hotel_belgravia;3.159722222222222
+uk_england_london_antoinette_hotel_wimbledon;3.1587301587301586
+uk_england_london_ibis_london_greenwich;3.1587301587301586
+uk_england_london_park_grand_london_paddington;3.156862745098039
+uk_england_london_princes_square_hotel;3.1555555555555554
+uk_england_london_ashley_hotel;3.1555555555555554
+uk_england_london_the_park_lane_sheraton_hotel;3.1545893719806766
+uk_england_london_comfort_inn_victoria;3.1510416666666665
+uk_england_london_hilton_london_olympia;3.1479750778816196
+uk_england_london_easyhotel_london_victoria;3.131410256410256
+uk_england_london_thistle_westminster;3.130801687763713
+uk_england_london_montana_excel;3.1304347826086953
+uk_england_london_mentone_hotel;3.1219512195121957
+uk_england_london_holiday_inn_express_london_city;3.1199999999999997
+uk_england_london_westpoint_hotel;3.1041666666666665
+uk_england_london_cavendish_hotel;3.103703703703703
+uk_england_london_travelodge_london_docklands;3.0905797101449273
+uk_england_london_barkston_garden_hotel_kensington;3.0839328537170263
+uk_england_london_hendon_hall;3.0833333333333335
+uk_england_london_comfort_inn_vauxhall;3.0784313725490193
+uk_england_london_travelodge_london_battersea;3.055555555555556
+uk_england_london_easyhotel_london_south_kensington;3.051851851851852
+uk_england_london_the_clarendon_hotel;3.0416666666666665
+uk_england_london_windsor_house_hotel;3.0378006872852232
+uk_england_london_holiday_inn_oxford_circus;3.0364583333333335
+uk_england_london_limegrove_hotel;3.0350877192982453
+uk_england_london_durley_house;3.0256410256410255
+uk_england_london_mowbray_court_hotel;3.0246913580246915
+uk_england_london_enrico_hotel;3.0243902439024386
+uk_england_london_hyde_park_executive_apartments_hotel;3.0080321285140563
+uk_england_london_st_george_s_hotel;3.0
+uk_england_london_tavistock_hotel;2.998245614035088
+uk_england_london_travelodge_wembley;2.993055555555556
+uk_england_london_royal_adelphi_hotel;2.9876543209876547
+uk_england_london_enterprise_hotel;2.987179487179487
+uk_england_london_thistle_euston;2.984585741811175
+uk_england_london_city_hotel;2.9826839826839824
+uk_england_london_custom_house_hotel;2.979381443298969
+uk_england_london_grantly_hotel;2.977777777777778
+uk_england_london_henry_viii_hotel;2.9771689497716896
+uk_england_london_reem_hotel;2.971751412429379
+uk_england_london_hotel_california;2.963963963963964
+uk_england_london_rydges_kensington_plaza_hotel;2.9629629629629632
+uk_england_london_avon_hotel;2.9607843137254903
+uk_england_london_city_continental_london_kensington;2.947712418300654
+uk_england_london_derby_hotel;2.9462365591397854
+uk_england_london_seymour_hotel;2.9444444444444446
+uk_england_london_classic_hotel_london;2.9375
+uk_england_london_raglan_hotel;2.935185185185185
+uk_england_london_the_hyde_park_hotel;2.9259259259259256
+uk_england_london_westbury_kensington;2.9166666666666665
+uk_england_london_the_hyde_park_towers_hotel;2.915942028985507
+uk_england_london_travelodge_london_marylebone;2.9157509157509156
+uk_england_london_the_dover_hotel;2.9148936170212765
+uk_england_london_wellington;2.9111111111111114
+uk_england_london_hotel_la_place;2.911111111111111
+uk_england_london_athena_hotel;2.9
+uk_england_london_boulevard_hotel;2.9
+uk_england_london_caswell_hotel;2.897435897435898
+uk_england_london_huttons_hotel;2.896551724137931
+uk_england_london_st_giles_hotel_london;2.8947951273532664
+uk_england_london_royal_eagle_hotel;2.893939393939394
+uk_england_london_abba_queen_s_gate_hotel;2.888888888888889
+uk_england_london_oliver_plaza_hotel;2.877777777777778
+uk_england_london_curzon_plaza;2.8759689922480622
+uk_england_london_waverley_house_hotel;2.875968992248062
+uk_england_london_kensington_close_hotel;2.874617737003058
+uk_england_london_pickwick_hall;2.871794871794872
+uk_england_london_thistle_bloomsbury_park;2.8458781362007173
+uk_england_london_oxford_hotel;2.8424242424242423
+uk_england_london_abbey_court_hyde_park;2.8421052631578942
+uk_england_london_holiday_villa_london;2.8378378378378373
+uk_england_london_quality_hotel_wembley;2.8378378378378373
+uk_england_london_boston_manor_hotel;2.8205128205128207
+uk_england_london_shaftesbury_premier_hyde_park_paddington;2.8115942028985508
+uk_england_london_avonmore_hotel;2.807692307692308
+uk_england_london_berjaya_eden_park_hotel;2.805555555555556
+uk_england_london_chelsea_guest_house;2.8055555555555554
+uk_england_london_cranley_gardens_hotel;2.7870370370370368
+uk_england_london_abbey_court_hotel;2.785714285714286
+uk_england_london_thistle_city_barbican;2.785070785070785
+uk_england_london_best_western_paddington_court_hotel_suites;2.78494623655914
+uk_england_london_avni_hotel_at_courtfield;2.7708333333333335
+uk_england_london_the_grosvenor;2.765051395007342
+uk_england_london_grange_langham_court;2.755555555555555
+uk_england_london_kensington_townhouse_london;2.7533333333333334
+uk_england_london_lord_jim_hotel;2.75
+uk_england_london_nayland_hotel;2.75
+uk_england_london_orchard_hotel;2.747747747747747
+uk_england_london_country_inn_suites_london_bloomsbury;2.7450980392156867
+uk_england_london_travelodge_london_farringdon;2.742574257425743
+uk_england_london_britannia_international_hotel;2.7337526205450735
+uk_england_london_thistle_selfridge;2.733333333333333
+uk_england_london_best_western_mornington_hotel;2.7311827956989254
+uk_england_london_victoria_inn;2.7241379310344827
+uk_england_london_hyde_hotel;2.722222222222222
+uk_england_london_trinity_house;2.722222222222222
+uk_england_london_travelodge_london_kings_cross;2.7186147186147185
+uk_england_london_kensington_rooms;2.7175141242937855
+uk_england_london_gresham_hotel_london;2.7051282051282057
+uk_england_london_stanley_house;2.7037037037037037
+uk_england_london_beaver_hotel;2.7000000000000006
+uk_england_london_the_norfolk_towers_hotel;2.6888888888888887
+uk_england_london_blakemore_hotel;2.68859649122807
+uk_england_london_avni_kensington;2.6862745098039214
+uk_england_london_grosvenor_kensington_hotel;2.6725146198830405
+uk_england_london_travelodge_london_kings_cross_royal_scot;2.67008547008547
+uk_england_london_carlton_hotel;2.6666666666666665
+uk_england_london_etap_hotel_london_city_airport;2.6666666666666665
+uk_england_london_1_lexham_gardens;2.6589147286821704
+uk_england_london_grand_royale_london_hyde_park;2.650273224043716
+uk_england_london_royal_national_hotel;2.646733111849391
+uk_england_london_the_belvedere;2.6444444444444444
+uk_england_london_beverley_city_hotel;2.642857142857143
+uk_england_london_garden_view_hotel;2.635897435897436
+uk_england_london_jubilee_hotel;2.6296296296296298
+uk_england_london_dylan_house;2.627450980392157
+uk_england_london_st_mark_hotel;2.6231884057971016
+uk_england_london_leisure_inn;2.620689655172414
+uk_england_london_my_place_hotel;2.611111111111111
+uk_england_london_averard_hotel;2.6091954022988504
+uk_england_london_linden_house_hotel;2.5833333333333335
+uk_england_london_sleeping_beauty_motel;2.5815602836879434
+uk_england_london_arriva_hotel;2.5799999999999996
+uk_england_london_hotel_65;2.577777777777778
+uk_england_london_lords_hotel;2.5686274509803924
+uk_england_london_travelodge_london_park_royal;2.5641025641025643
+uk_england_london_la_reserve;2.5606060606060606
+uk_england_london_the_royal_cambridge_hotel;2.5595238095238098
+uk_england_london_the_gainsborough_hotel;2.5448717948717947
+uk_england_london_central_park_hotel;2.5333333333333337
+uk_england_london_think_earl_s_court;2.533333333333333
+uk_england_london_lancaster_court_hotel;2.533333333333333
+uk_england_london_bakers_hotel;2.5196078431372553
+uk_england_london_comfort_hotel_harrow;2.5
+uk_england_london_somerset_hotel;2.5
+uk_england_london_rose_court_hotel;2.493333333333333
+uk_england_london_west_cromwell_hotel;2.4901960784313726
+uk_england_london_tria;2.488888888888889
+uk_england_london_park_lane_mews_hotel;2.4673913043478257
+uk_england_london_springfield_hotel_london;2.4666666666666663
+uk_england_london_oliver_hotel;2.4629629629629632
+uk_england_london_queens_park_hotel;2.4374999999999996
+uk_england_london_central_house_hotel;2.43010752688172
+uk_england_london_brompton_hotel_london;2.419753086419753
+uk_england_london_alexandra_hotel;2.4183006535947715
+uk_england_london_kensington_suite_hotel;2.411764705882353
+uk_england_london_york_house_hotel;2.4079601990049753
+uk_england_london_mabledon_court_hotel;2.4065040650406506
+uk_england_london_boka_hotel;2.4
+uk_england_london_holland_court_hotel;2.3771929824561404
+uk_england_london_britannia_hampstead_hotel;2.3703703703703702
+uk_england_london_edward_hotel;2.35
+uk_england_london_bayswater_inn;2.3333333333333335
+uk_england_london_sara_hotel;2.3333333333333335
+uk_england_london_kensington_international_hotel;2.3333333333333335
+uk_england_london_city_inn_express;2.314814814814815
+uk_england_london_stonebridge_park_hotel;2.311111111111111
+uk_england_london_european_hotel;2.3095238095238098
+uk_england_london_brunel_hotel;2.3000000000000003
+uk_england_london_dolphin_hotel;2.2991452991452994
+uk_england_london_belmont_astoria_hotels;2.2916666666666665
+uk_england_london_the_paddington_hotel;2.282051282051282
+uk_england_london_saint_simeon;2.260869565217391
+uk_england_london_edward_house;2.2533333333333334
+uk_england_london_county_london;2.24822695035461
+uk_england_london_blue_bells_hotel;2.2380952380952377
+uk_england_london_the_belgrove_hotel;2.2258064516129035
+uk_england_london_royal_norfolk_hotel;2.2256410256410253
+uk_england_london_langland_hotel;2.215277777777778
+uk_england_london_palace_court_hotel;2.2113821138211383
+uk_england_london_opulence_hotel;2.2051282051282053
+uk_england_london_lidos_hotel;2.1999999999999997
+uk_england_london_king_solomon_hotel;2.1965811965811968
+uk_england_london_griffin_house_hotel;2.1724137931034484
+uk_england_london_pavilion_hotel;2.1714285714285713
+uk_england_london_rasool_court_hotel;2.1666666666666665
+uk_england_london_ambassadors_hotel;2.1646586345381524
+uk_england_london_prince_william_hotel;2.15819209039548
+uk_england_london_ebury_house;2.151515151515152
+uk_england_london_notting_hill_hotel;2.121212121212121
+uk_england_london_shakespeare_hotel;2.1182795698924735
+uk_england_london_norfolk_plaza_hotel;2.1142857142857143
+uk_england_london_quality_hotel_harrow;2.076923076923077
+uk_england_london_pembridge_palace_hotel;2.0617283950617282
+uk_england_london_bickenhall_hotel;2.0476190476190474
+uk_england_london_palace_hotel;2.0370370370370368
+uk_england_london_swinton_hotel;2.026666666666667
+uk_england_london_citadines_london_south_kensington;2.0208333333333335
+uk_england_london_majestic;2.0188679245283017
+uk_england_london_glendale_hyde_park_hotel;2.0119047619047623
+uk_england_london_hallam_hotel;1.9871794871794872
+uk_england_london_holly_house_hotel;1.9866666666666666
+uk_england_london_queens_hotel_crystal_palace;1.9651162790697674
+uk_england_london_garth_hotel;1.9583333333333333
+uk_england_london_georgian_hotel;1.950617283950617
+uk_england_london_pembury_hotel;1.9275362318840579
+uk_england_london_royal_hyde_park;1.9268292682926829
+uk_england_london_hyde_park_court_hotel;1.9259259259259258
+uk_england_london_apollo_hotel_bayswater;1.9208333333333334
+uk_england_london_romanos_hotel;1.9166666666666667
+uk_england_london_lily_hotel;1.912820512820513
+uk_england_london_euro_hotel_clapham;1.9057971014492754
+uk_england_london_admiral_hotel;1.9000000000000001
+uk_england_london_hyde_park_suites;1.8974358974358971
+uk_england_london_chester_hotel;1.8888888888888886
+uk_england_london_the_barn_hotel;1.875
+uk_england_london_kingsway_park_hotel;1.8666666666666665
+uk_england_london_belgrave_house_hotel;1.837837837837838
+uk_england_london_the_ascot_hotel;1.8166666666666664
+uk_england_london_exhibition_court_hotel_4;1.8055555555555556
+uk_england_london_hotel_olympia;1.7956989247311828
+uk_england_london_new_dawn_hotel;1.7738095238095237
+uk_england_london_airways_hotel;1.7637130801687764
+uk_england_london_melville_hotel;1.7575757575757578
+uk_england_london_premier_west_hotel;1.753968253968254
+uk_england_london_belsize_park_hotel;1.7450980392156863
+uk_england_london_chiswick_court_hotel;1.7407407407407407
+uk_england_london_wedgewood_hotel;1.7350427350427349
+uk_england_london_vegas_hotel;1.7142857142857142
+uk_england_london_eden_plaza_hotel;1.7088122605363987
+uk_england_london_pacific_hotel;1.7
+uk_england_london_blair_victoria_hotel;1.6952380952380952
+uk_england_london_andrews_house_hotel;1.6904761904761905
+uk_england_london_queens_hotel;1.6666666666666667
+uk_england_london_colliers_hotel;1.6666666666666667
+uk_england_london_the_lonsdale_hotel;1.6363636363636365
+uk_england_london_an_nur_anna_hotel;1.636363636363636
+uk_england_london_the_ivy_house_hotel;1.6333333333333335
+uk_england_london_aquarius_hotel;1.6133333333333333
+uk_england_london_london_shelton_hotel;1.6000000000000003
+uk_england_london_kings_hotel;1.5925925925925926
+uk_england_london_hyde_park_west;1.5128205128205128
+uk_england_london_whiteleaf_hotel;1.4166666666666667
+uk_england_london_manor_court_hotel;1.4000000000000001
+uk_england_london_earls_court_gardens_hotel;1.3809523809523812
+uk_england_london_radnor_bayswater_hotel;1.3777777777777775
+uk_england_london_gresham_hotel;1.3589743589743588
+uk_england_london_boston_court_hotel;1.349206349206349
+uk_england_london_cromwell_crown;1.337962962962963
+uk_england_london_berkeley_court;1.3333333333333333
+uk_england_london_spring_park_hotel;1.3333333333333333
+uk_england_london_the_ventures_hotel;1.2916666666666667
+uk_england_london_regency_court_hotel;1.282051282051282
+uk_england_london_corbigoe_hotel;1.2803030303030305
+uk_england_london_park_hotel;1.267857142857143
+uk_england_london_grand_tourist;1.2666666666666666
+uk_england_london_golders_green_hotel;1.1666666666666667
+uk_england_london_hotel_rama;1.121212121212121
